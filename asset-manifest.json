@@ -1,25 +1,29 @@
 {
   "files": {
-    "main.css": "/MyHomePage/static/css/main.4c8147d7.chunk.css",
-    "main.js": "/MyHomePage/static/js/main.5ddb3f22.chunk.js",
-    "main.js.map": "/MyHomePage/static/js/main.5ddb3f22.chunk.js.map",
+    "main.css": "/MyHomePage/static/css/main.c8ec09ef.chunk.css",
+    "main.js": "/MyHomePage/static/js/main.0996cd00.chunk.js",
+    "main.js.map": "/MyHomePage/static/js/main.0996cd00.chunk.js.map",
     "runtime-main.js": "/MyHomePage/static/js/runtime-main.0dd4fece.js",
     "runtime-main.js.map": "/MyHomePage/static/js/runtime-main.0dd4fece.js.map",
-    "static/js/2.e46e0b32.chunk.js": "/MyHomePage/static/js/2.e46e0b32.chunk.js",
-    "static/js/2.e46e0b32.chunk.js.map": "/MyHomePage/static/js/2.e46e0b32.chunk.js.map",
+    "static/js/2.ec7a7fff.chunk.js": "/MyHomePage/static/js/2.ec7a7fff.chunk.js",
+    "static/js/2.ec7a7fff.chunk.js.map": "/MyHomePage/static/js/2.ec7a7fff.chunk.js.map",
     "index.html": "/MyHomePage/index.html",
-    "precache-manifest.57c51707a1aaa714f6085a4a500d4d29.js": "/MyHomePage/precache-manifest.57c51707a1aaa714f6085a4a500d4d29.js",
+    "precache-manifest.2477cc3342b39f74482d3a95a057726e.js": "/MyHomePage/precache-manifest.2477cc3342b39f74482d3a95a057726e.js",
     "service-worker.js": "/MyHomePage/service-worker.js",
-    "static/css/main.4c8147d7.chunk.css.map": "/MyHomePage/static/css/main.4c8147d7.chunk.css.map",
-    "static/js/2.e46e0b32.chunk.js.LICENSE.txt": "/MyHomePage/static/js/2.e46e0b32.chunk.js.LICENSE.txt",
+    "static/css/main.c8ec09ef.chunk.css.map": "/MyHomePage/static/css/main.c8ec09ef.chunk.css.map",
+    "static/js/2.ec7a7fff.chunk.js.LICENSE.txt": "/MyHomePage/static/js/2.ec7a7fff.chunk.js.LICENSE.txt",
+    "static/media/LearningTube.png": "/MyHomePage/static/media/LearningTube.b99ff165.png",
+    "static/media/Twitter.png": "/MyHomePage/static/media/Twitter.45c72cf1.png",
+    "static/media/calendar.png": "/MyHomePage/static/media/calendar.23a31939.png",
     "static/media/index.css": "/MyHomePage/static/media/logotypejp_mp_m_1.1.d6a77ff8.ttf",
     "static/media/logotypejp_mp_b_1.1.ttf": "/MyHomePage/static/media/logotypejp_mp_b_1.1.ffac0fbc.ttf",
-    "static/media/my.jpg": "/MyHomePage/static/media/my.b2c9793b.jpg"
+    "static/media/my.jpg": "/MyHomePage/static/media/my.b2c9793b.jpg",
+    "static/media/shot.png": "/MyHomePage/static/media/shot.ba85314f.png"
   },
   "entrypoints": [
     "static/js/runtime-main.0dd4fece.js",
-    "static/js/2.e46e0b32.chunk.js",
-    "static/css/main.4c8147d7.chunk.css",
-    "static/js/main.5ddb3f22.chunk.js"
+    "static/js/2.ec7a7fff.chunk.js",
+    "static/css/main.c8ec09ef.chunk.css",
+    "static/js/main.0996cd00.chunk.js"
   ]
 }
