@@ -1,18 +1,24 @@
 {
   "files": {
     "main.css": "/MyHomePage/static/css/main.c8ec09ef.chunk.css",
-    "main.js": "/MyHomePage/static/js/main.6a12d370.chunk.js",
-    "main.js.map": "/MyHomePage/static/js/main.6a12d370.chunk.js.map",
+    "main.js": "/MyHomePage/static/js/main.e8b64940.chunk.js",
+    "main.js.map": "/MyHomePage/static/js/main.e8b64940.chunk.js.map",
     "runtime-main.js": "/MyHomePage/static/js/runtime-main.0dd4fece.js",
     "runtime-main.js.map": "/MyHomePage/static/js/runtime-main.0dd4fece.js.map",
-    "static/js/2.ec7a7fff.chunk.js": "/MyHomePage/static/js/2.ec7a7fff.chunk.js",
-    "static/js/2.ec7a7fff.chunk.js.map": "/MyHomePage/static/js/2.ec7a7fff.chunk.js.map",
+    "static/js/2.49700c01.chunk.js": "/MyHomePage/static/js/2.49700c01.chunk.js",
+    "static/js/2.49700c01.chunk.js.map": "/MyHomePage/static/js/2.49700c01.chunk.js.map",
     "index.html": "/MyHomePage/index.html",
-    "precache-manifest.1eb5c319c05c0266889145344cf95ad0.js": "/MyHomePage/precache-manifest.1eb5c319c05c0266889145344cf95ad0.js",
+    "precache-manifest.f3113f8764749b79fee829c99a33fb1a.js": "/MyHomePage/precache-manifest.f3113f8764749b79fee829c99a33fb1a.js",
     "service-worker.js": "/MyHomePage/service-worker.js",
     "static/css/main.c8ec09ef.chunk.css.map": "/MyHomePage/static/css/main.c8ec09ef.chunk.css.map",
-    "static/js/2.ec7a7fff.chunk.js.LICENSE.txt": "/MyHomePage/static/js/2.ec7a7fff.chunk.js.LICENSE.txt",
+    "static/js/2.49700c01.chunk.js.LICENSE.txt": "/MyHomePage/static/js/2.49700c01.chunk.js.LICENSE.txt",
+    "static/media/CHATTY_CHATTY.jpg": "/MyHomePage/static/media/CHATTY_CHATTY.c2209acc.jpg",
+    "static/media/HUNGRY_HEAVEN.jpg": "/MyHomePage/static/media/HUNGRY_HEAVEN.42203855.jpg",
+    "static/media/ILL_FROGS.jpg": "/MyHomePage/static/media/ILL_FROGS.50b1bf9e.jpg",
+    "static/media/Jack37Burger.jpg": "/MyHomePage/static/media/Jack37Burger.4843c0d7.jpg",
     "static/media/LearningTube.png": "/MyHomePage/static/media/LearningTube.b99ff165.png",
+    "static/media/SHOGUN_BURGER.jpg": "/MyHomePage/static/media/SHOGUN_BURGER.0c458b0c.jpg",
+    "static/media/The_Burger_Stand_Fellows.jpg": "/MyHomePage/static/media/The_Burger_Stand_Fellows.d3cf91d7.jpg",
     "static/media/Twitter.png": "/MyHomePage/static/media/Twitter.45c72cf1.png",
     "static/media/calendar.png": "/MyHomePage/static/media/calendar.23a31939.png",
     "static/media/index.css": "/MyHomePage/static/media/logotypejp_mp_m_1.1.d6a77ff8.ttf",
@@ -22,8 +28,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.0dd4fece.js",
-    "static/js/2.ec7a7fff.chunk.js",
+    "static/js/2.49700c01.chunk.js",
     "static/css/main.c8ec09ef.chunk.css",
-    "static/js/main.6a12d370.chunk.js"
+    "static/js/main.e8b64940.chunk.js"
   ]
 }

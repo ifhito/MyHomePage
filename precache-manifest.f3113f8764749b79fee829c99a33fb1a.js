@@ -1,31 +1,55 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7fac9c643daca4b27fc680b02c69a58a",
+    "revision": "5b00334a76bbb9f3fb5993cfdade97a2",
     "url": "/MyHomePage/index.html"
   },
   {
-    "revision": "52797ce6cc11dc52d330",
+    "revision": "adc0a74cfed57b1df1ea",
     "url": "/MyHomePage/static/css/main.c8ec09ef.chunk.css"
   },
   {
-    "revision": "6423520a4ffa963255c7",
-    "url": "/MyHomePage/static/js/2.ec7a7fff.chunk.js"
+    "revision": "bc5169184819f0b905d5",
+    "url": "/MyHomePage/static/js/2.49700c01.chunk.js"
   },
   {
     "revision": "0749163b59fbee32225059cb60c18af6",
-    "url": "/MyHomePage/static/js/2.ec7a7fff.chunk.js.LICENSE.txt"
+    "url": "/MyHomePage/static/js/2.49700c01.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "52797ce6cc11dc52d330",
-    "url": "/MyHomePage/static/js/main.6a12d370.chunk.js"
+    "revision": "adc0a74cfed57b1df1ea",
+    "url": "/MyHomePage/static/js/main.e8b64940.chunk.js"
   },
   {
     "revision": "7ffee9ce3d8ffba286dc",
     "url": "/MyHomePage/static/js/runtime-main.0dd4fece.js"
   },
   {
+    "revision": "c2209acca2cfe01b3f22bf83177ea65b",
+    "url": "/MyHomePage/static/media/CHATTY_CHATTY.c2209acc.jpg"
+  },
+  {
+    "revision": "42203855d5ed22119a145cd335f53f6c",
+    "url": "/MyHomePage/static/media/HUNGRY_HEAVEN.42203855.jpg"
+  },
+  {
+    "revision": "50b1bf9eb028a15166054c5b56e870fd",
+    "url": "/MyHomePage/static/media/ILL_FROGS.50b1bf9e.jpg"
+  },
+  {
+    "revision": "4843c0d77d77d0a6d195d95f8086555f",
+    "url": "/MyHomePage/static/media/Jack37Burger.4843c0d7.jpg"
+  },
+  {
     "revision": "b99ff165ae5bad767e467d13a7d436be",
     "url": "/MyHomePage/static/media/LearningTube.b99ff165.png"
+  },
+  {
+    "revision": "0c458b0cf948011fd146d2e06f5bfaa2",
+    "url": "/MyHomePage/static/media/SHOGUN_BURGER.0c458b0c.jpg"
+  },
+  {
+    "revision": "d3cf91d7a0388b76fa9856dd36f72999",
+    "url": "/MyHomePage/static/media/The_Burger_Stand_Fellows.d3cf91d7.jpg"
   },
   {
     "revision": "45c72cf1d3a52b3f43000339958c0822",
