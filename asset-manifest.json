@@ -1,23 +1,27 @@
 {
   "files": {
     "main.css": "/MyHomePage/static/css/main.be02135a.chunk.css",
-    "main.js": "/MyHomePage/static/js/main.7d35a074.chunk.js",
-    "main.js.map": "/MyHomePage/static/js/main.7d35a074.chunk.js.map",
+    "main.js": "/MyHomePage/static/js/main.8f3645a7.chunk.js",
+    "main.js.map": "/MyHomePage/static/js/main.8f3645a7.chunk.js.map",
     "runtime-main.js": "/MyHomePage/static/js/runtime-main.0dd4fece.js",
     "runtime-main.js.map": "/MyHomePage/static/js/runtime-main.0dd4fece.js.map",
-    "static/js/2.49700c01.chunk.js": "/MyHomePage/static/js/2.49700c01.chunk.js",
-    "static/js/2.49700c01.chunk.js.map": "/MyHomePage/static/js/2.49700c01.chunk.js.map",
+    "static/js/2.22d43cc1.chunk.js": "/MyHomePage/static/js/2.22d43cc1.chunk.js",
+    "static/js/2.22d43cc1.chunk.js.map": "/MyHomePage/static/js/2.22d43cc1.chunk.js.map",
     "index.html": "/MyHomePage/index.html",
-    "precache-manifest.ad157baa67333add1f5b43e729067bfc.js": "/MyHomePage/precache-manifest.ad157baa67333add1f5b43e729067bfc.js",
+    "precache-manifest.c5e3d112919bb7571cc852cdf671e10a.js": "/MyHomePage/precache-manifest.c5e3d112919bb7571cc852cdf671e10a.js",
     "service-worker.js": "/MyHomePage/service-worker.js",
     "static/css/main.be02135a.chunk.css.map": "/MyHomePage/static/css/main.be02135a.chunk.css.map",
-    "static/js/2.49700c01.chunk.js.LICENSE.txt": "/MyHomePage/static/js/2.49700c01.chunk.js.LICENSE.txt",
+    "static/js/2.22d43cc1.chunk.js.LICENSE.txt": "/MyHomePage/static/js/2.22d43cc1.chunk.js.LICENSE.txt",
     "static/media/CHATTY_CHATTY.jpg": "/MyHomePage/static/media/CHATTY_CHATTY.c2209acc.jpg",
+    "static/media/CRANE.jpg": "/MyHomePage/static/media/CRANE.31d07048.jpg",
+    "static/media/Cactus_Burger.jpg": "/MyHomePage/static/media/Cactus_Burger.6cf6b1a0.jpg",
     "static/media/HUNGRY_HEAVEN.jpg": "/MyHomePage/static/media/HUNGRY_HEAVEN.42203855.jpg",
     "static/media/ILL_FROGS.jpg": "/MyHomePage/static/media/ILL_FROGS.50b1bf9e.jpg",
     "static/media/Jack37Burger.jpg": "/MyHomePage/static/media/Jack37Burger.4843c0d7.jpg",
     "static/media/LearningTube.png": "/MyHomePage/static/media/LearningTube.b99ff165.png",
+    "static/media/Nick_stock.jpg": "/MyHomePage/static/media/Nick_stock.f49f76e4.jpg",
     "static/media/SHOGUN_BURGER.jpg": "/MyHomePage/static/media/SHOGUN_BURGER.0c458b0c.jpg",
+    "static/media/Teddys_Bigger_Burgers.jpg": "/MyHomePage/static/media/Teddys_Bigger_Burgers.09ff6697.jpg",
     "static/media/The_Burger_Stand_Fellows.jpg": "/MyHomePage/static/media/The_Burger_Stand_Fellows.d3cf91d7.jpg",
     "static/media/Twitter.png": "/MyHomePage/static/media/Twitter.45c72cf1.png",
     "static/media/calendar.png": "/MyHomePage/static/media/calendar.23a31939.png",
@@ -28,8 +32,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.0dd4fece.js",
-    "static/js/2.49700c01.chunk.js",
+    "static/js/2.22d43cc1.chunk.js",
     "static/css/main.be02135a.chunk.css",
-    "static/js/main.7d35a074.chunk.js"
+    "static/js/main.8f3645a7.chunk.js"
   ]
 }

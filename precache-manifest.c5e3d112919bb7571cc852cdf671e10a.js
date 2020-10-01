@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d400b58895447cb0a8866f50c9155031",
+    "revision": "e39f0dbaf609c84a828fedbf9618da27",
     "url": "/MyHomePage/index.html"
   },
   {
-    "revision": "9c4e2a6324717372a7f8",
+    "revision": "4c8895a038bbcd6b0a0a",
     "url": "/MyHomePage/static/css/main.be02135a.chunk.css"
   },
   {
-    "revision": "bc5169184819f0b905d5",
-    "url": "/MyHomePage/static/js/2.49700c01.chunk.js"
+    "revision": "f1975694bfcd9ca0d426",
+    "url": "/MyHomePage/static/js/2.22d43cc1.chunk.js"
   },
   {
     "revision": "0749163b59fbee32225059cb60c18af6",
-    "url": "/MyHomePage/static/js/2.49700c01.chunk.js.LICENSE.txt"
+    "url": "/MyHomePage/static/js/2.22d43cc1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9c4e2a6324717372a7f8",
-    "url": "/MyHomePage/static/js/main.7d35a074.chunk.js"
+    "revision": "4c8895a038bbcd6b0a0a",
+    "url": "/MyHomePage/static/js/main.8f3645a7.chunk.js"
   },
   {
     "revision": "7ffee9ce3d8ffba286dc",
@@ -26,6 +26,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c2209acca2cfe01b3f22bf83177ea65b",
     "url": "/MyHomePage/static/media/CHATTY_CHATTY.c2209acc.jpg"
+  },
+  {
+    "revision": "31d070483ef1a6cdcf36c1335ba57eda",
+    "url": "/MyHomePage/static/media/CRANE.31d07048.jpg"
+  },
+  {
+    "revision": "6cf6b1a00d7eefe57d8ee101b13a4d21",
+    "url": "/MyHomePage/static/media/Cactus_Burger.6cf6b1a0.jpg"
   },
   {
     "revision": "42203855d5ed22119a145cd335f53f6c",
@@ -44,8 +52,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MyHomePage/static/media/LearningTube.b99ff165.png"
   },
   {
+    "revision": "f49f76e465dcb54f076357707d492099",
+    "url": "/MyHomePage/static/media/Nick_stock.f49f76e4.jpg"
+  },
+  {
     "revision": "0c458b0cf948011fd146d2e06f5bfaa2",
     "url": "/MyHomePage/static/media/SHOGUN_BURGER.0c458b0c.jpg"
+  },
+  {
+    "revision": "09ff6697b6e41f9b10e08c0aab80734d",
+    "url": "/MyHomePage/static/media/Teddys_Bigger_Burgers.09ff6697.jpg"
   },
   {
     "revision": "d3cf91d7a0388b76fa9856dd36f72999",
